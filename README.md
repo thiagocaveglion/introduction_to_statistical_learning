@@ -7,3 +7,4 @@ O approach ao livro tem intuito educacional, com alterações verbais em alguns 
 ## Bibliotecas
 Conforme utilizadas, serão indicadas as instalações de determinadas bibliotecas
 ## 
+![image](https://github.com/thiagocaveglion/introduction_to_statistical_learning/assets/107949964/6d58af92-8cfc-47be-b1f4-fd2f44ef2513)
